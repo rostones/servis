@@ -1,0 +1,11 @@
+.textPa {
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.GambarProduk {
+  width: 100%;
+}
